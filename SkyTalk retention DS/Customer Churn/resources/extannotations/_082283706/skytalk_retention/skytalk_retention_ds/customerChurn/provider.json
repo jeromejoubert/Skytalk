@@ -1,0 +1,9 @@
+{
+  "name" : "082283706/Skytalk-retention/Watson ML JJ1647448033881",
+  "type" : "WML",
+  "description" : "",
+  "mlUrl" : "https://us-south.ml.cloud.ibm.com",
+  "authUrl" : "https://iam.bluemix.net/identity/token",
+  "instanceId" : "6bdedd9c-a4d0-409e-bbc2-bf7f2c3cfe68",
+  "apiKey" : null
+}

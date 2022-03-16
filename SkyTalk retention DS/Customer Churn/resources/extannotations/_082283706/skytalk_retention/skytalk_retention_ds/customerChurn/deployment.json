@@ -1,0 +1,28 @@
+{
+  "metadata" : {
+    "id" : "ce020683-2f36-445b-9fdd-96d60f2ed9ab",
+    "name" : "Churn",
+    "modified_at" : "2022-03-16T16:05:58.337Z",
+    "created_at" : "2022-03-16T16:05:58.337Z",
+    "owner" : "IBMid-550000KQ97",
+    "space_id" : "6bdedd9c-a4d0-409e-bbc2-bf7f2c3cfe68"
+  },
+  "entity" : {
+    "name" : "Churn",
+    "space_id" : "6bdedd9c-a4d0-409e-bbc2-bf7f2c3cfe68",
+    "custom" : { },
+    "online" : { },
+    "status" : {
+      "state" : "ready",
+      "online_url" : {
+        "url" : "https://us-south.ml.cloud.ibm.com/ml/v4/deployments/ce020683-2f36-445b-9fdd-96d60f2ed9ab/predictions"
+      }
+    },
+    "asset" : {
+      "id" : "4ba36fdc-88c1-4bd7-b5fd-a9983727e1e7"
+    }
+  },
+  "name" : "Churn",
+  "status" : "ready",
+  "deployedAt" : "2022-03-16T16:05:58.337Z"
+}
